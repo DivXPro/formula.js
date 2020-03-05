@@ -11260,7 +11260,6 @@ for (var c in categories) {
   }
 }
 
-console.log('categories', categories[4]['SUM'](1000.11, 2000,02, 3000));
 
 /***/ }),
 /* 12 */

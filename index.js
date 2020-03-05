@@ -19,5 +19,3 @@ for (var c in categories) {
     exports[f] = exports[f] || category[f];
   }
 }
-
-console.log('categories', categories[4]['SUM'](1000.11, 2000,02, 3000));
