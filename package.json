@@ -1,11 +1,11 @@
 {
   "author": "Handsoncode <hello@handsontable.com>",
-  "name": "@handsontable/formulajs",
+  "name": "formulajs-precision",
   "description": "JavaScript implementation of most Microsoft Excel formula functions",
   "version": "2.0.2",
   "repository": {
     "type": "git",
-    "url": "git@github.com:handsontable/formula.js.git"
+    "url": "git@github.com:divx/formula.js.git"
   },
   "main": "index.js",
   "bin": {
@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "bessel": "^1.0.2",
-    "jstat": "^1.9.2"
+    "jstat": "^1.9.2",
+    "number-precision": "^1.3.2"
   },
   "devDependencies": {
     "blanket": "^1.1.6",
