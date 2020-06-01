@@ -2,10 +2,10 @@
   "author": "Handsoncode <hello@handsontable.com>",
   "name": "formulajs-precision",
   "description": "JavaScript implementation of most Microsoft Excel formula functions",
-  "version": "2.0.2-fix1",
+  "version": "2.0.2-fix2",
   "repository": {
     "type": "git",
-    "url": "git@github.com:divx/formula.js.git"
+    "url": "git@github.com:divxpro/formula.js.git"
   },
   "main": "index.js",
   "bin": {
